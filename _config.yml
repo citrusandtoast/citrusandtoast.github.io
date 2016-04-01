@@ -4,19 +4,19 @@
 permalink:           pretty
 
 # Setup
-title:               Citrus and Toast
+title:               Lemons and Toast
 tagline:             'Eat your breakfast'
-description:         'Citrus and Toast is a blog about the universe and everything in it'
-url:                 http://citrusandtoast.com
+description:         'Lemons and Toast is a blog about the universe and everything in it'
+url:                 http://lemonsandtoast.com
 baseurl:             ''
 gems: [jekyll-paginate]
 paginate:            5
 
 # About/contact
 author:
-  name:              Citrus and Toast
+  name:              Lemons and Toast
   url:               https://twitter.com/
-  email:             citrusandtoast@gmail.com
+  email:             lemonsandtoast@gmail.com
 
 # Custom vars
 version:             1.0.0

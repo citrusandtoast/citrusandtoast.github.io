@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lemons and Toast</title>
+ <link href="http://lemonsandtoast.com/atom.xml" rel="self"/>
+ <link href="http://lemonsandtoast.com/"/>
+ <updated>2016-03-31T20:54:40-04:00</updated>
+ <id>http://lemonsandtoast.com</id>
+ <author>
+   <name>Lemons and Toast</name>
+   <email>lemonsandtoast@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Here are seven super foods you should be eating</title>
+   <link href="http://lemonsandtoast.com/2016/03/23/super-foods/"/>
+   <updated>2016-03-23T00:00:00-04:00</updated>
+   <id>http://lemonsandtoast.com/2016/03/23/super-foods</id>
+   <content type="html">&lt;h3 id=&quot;blueberries&quot;&gt;Blueberries&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/blueberry.jpg&quot; alt=&quot;Blueberries&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Anthocyanins, Polyphenols, Phtyochemicals&lt;/p&gt;
+
+&lt;h3 id=&quot;almonds&quot;&gt;Almonds&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/almond.jpg&quot; alt=&quot;Almonds&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds-1&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Dietary Fiber, Monounsaturated Fats, Polyunsaturated Fat, Riboflavin, Niacin&lt;/p&gt;
+
+&lt;h3 id=&quot;avocado&quot;&gt;Avocado&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/avocado.jpg&quot; alt=&quot;Avocado&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds-2&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Dietary Fiber, Monounsaturated Fats, Polyunsaturated Fat, Riboflavin, Niacin&lt;/p&gt;
+
+&lt;h3 id=&quot;chocolate&quot;&gt;Chocolate&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/chocolate.jpg&quot; alt=&quot;Chocolate&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds-3&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Dietary Fiber, Theobromine, Vitamins B12, Riboflavin, Magnesium, Manganese&lt;/p&gt;
+
+&lt;h3 id=&quot;green-tea&quot;&gt;Green Tea&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/green-tea.jpg&quot; alt=&quot;Green Tea&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds-4&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Caffeine, Theanine, Theobromine, Theophylline&lt;/p&gt;
+
+&lt;h3 id=&quot;kale&quot;&gt;Kale&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/kale.jpg&quot; alt=&quot;Kale&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds-5&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Vitamin A, Vitamin C, Vitamin K, Vitamin B6, Folate, Manganese&lt;/p&gt;
+
+&lt;h3 id=&quot;salmon&quot;&gt;Salmon&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/superfoods/salmon.jpg&quot; alt=&quot;Salmon&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;beneficial-compounds-6&quot;&gt;Beneficial Compounds:&lt;/h4&gt;
+&lt;p&gt;Omega-3 Fatty Acids, Phosphorus, Vitamin D&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>5 tips everyone should try to save money</title>
+   <link href="http://lemonsandtoast.com/2016/03/23/saving-money/"/>
+   <updated>2016-03-23T00:00:00-04:00</updated>
+   <id>http://lemonsandtoast.com/2016/03/23/saving-money</id>
+   <content type="html">&lt;h3 id=&quot;brew-your-own-coffee-at-home&quot;&gt;Brew your own coffee at home&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/save-money/coffee.jpg&quot; alt=&quot;Coffee&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;potential-money-saved&quot;&gt;Potential Money Saved:&lt;/h4&gt;
+&lt;p&gt;A typical chain restaurant coffee can set you back up to $3 a day. That same coffee can be brewed at home for just 20 cents. This switch could save you hundreds of dollars a year.&lt;/p&gt;
+
+&lt;h3 id=&quot;eat-more-rice-lentils-and-beans&quot;&gt;Eat more rice, lentils and beans&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/save-money/lentils.jpg&quot; alt=&quot;Lentils&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;potential-money-saved-1&quot;&gt;Potential Money Saved:&lt;/h4&gt;
+&lt;p&gt;Rice, lentils and beans are incredibly inexpensive and good for you. In addition, they pack a lot of fiber and in the case of beans and lentils, a lot of plant protein. Purchasing in bulk can reduce the price of each to under two dollars a pound.&lt;/p&gt;
+
+&lt;h3 id=&quot;wait-one-month-before-making-any-non-essential-purchases&quot;&gt;Wait one month before making any non-essential purchases&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/save-money/calendar.jpg&quot; alt=&quot;Calendar&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;potential-money-saved-2&quot;&gt;Potential Money Saved:&lt;/h4&gt;
+&lt;p&gt;Impulse purchases can lead to wasting money on a lot of unnecessary items. To curb money spent on random gadgets, implement a 30 day waiting period for any purchases you make that aren’t essential to living.&lt;/p&gt;
+
+&lt;h3 id=&quot;get-books-dvds-and-magazines-at-your-library&quot;&gt;Get books, dvds and magazines at your library&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/save-money/library.jpg&quot; alt=&quot;Library&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;potential-money-saved-3&quot;&gt;Potential Money Saved:&lt;/h4&gt;
+&lt;p&gt;Your local library is filled with plenty of things for your entertainment all at no cost. So rather than spending $10 to $20 bucks on a dvd, see if its at your library first.&lt;/p&gt;
+
+&lt;h3 id=&quot;cut-your-cable-and-your-home-phone&quot;&gt;Cut your cable and your home phone&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/save-money/phone-line.jpg&quot; alt=&quot;Phone Line&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;potential-money-saved-4&quot;&gt;Potential Money Saved:&lt;/h4&gt;
+&lt;p&gt;Your tv and home phone subscription can be more than a hundred dollars a month. Much of the same features can be achieved with a cell phone and access to the internet.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>You won't believe these fruits even exist</title>
+   <link href="http://lemonsandtoast.com/2016/03/20/weird-fruit/"/>
+   <updated>2016-03-20T00:00:00-04:00</updated>
+   <id>http://lemonsandtoast.com/2016/03/20/weird-fruit</id>
+   <content type="html">&lt;h3 id=&quot;buddhas-hand&quot;&gt;Buddhas Hand&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weirdest-fruit/buddhas-hand.jpg&quot; alt=&quot;Buddhas Hand&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;region-of-origin&quot;&gt;Region of origin:&lt;/h4&gt;
+&lt;p&gt;Northeastern India and China&lt;/p&gt;
+
+&lt;h3 id=&quot;starfruit&quot;&gt;Starfruit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weirdest-fruit/starfruit.jpg&quot; alt=&quot;Starfruit&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;region-of-origin-1&quot;&gt;Region of origin:&lt;/h4&gt;
+&lt;p&gt;Southeast Asia and South Pacific&lt;/p&gt;
+
+&lt;h3 id=&quot;kiwano&quot;&gt;Kiwano&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weirdest-fruit/kiwano.jpg&quot; alt=&quot;Kiwano&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;region-of-origin-2&quot;&gt;Region of origin:&lt;/h4&gt;
+&lt;p&gt;Sub-Saharan Africa&lt;/p&gt;
+
+&lt;h3 id=&quot;chinese-lantern&quot;&gt;Chinese Lantern&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weirdest-fruit/chinese-lantern.jpg&quot; alt=&quot;Chinese Lantern&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;region-of-origin-3&quot;&gt;Region of origin:&lt;/h4&gt;
+&lt;p&gt;Spans Southern Europe to Japan&lt;/p&gt;
+
+&lt;h3 id=&quot;dragon-fruit&quot;&gt;Dragon Fruit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weirdest-fruit/dragon-fruit.jpg&quot; alt=&quot;Dragon Fruit&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;region-of-origin-4&quot;&gt;Region of origin:&lt;/h4&gt;
+&lt;p&gt;Central America&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>7 Habits of successful people</title>
+   <link href="http://lemonsandtoast.com/2016/03/18/successful-people/"/>
+   <updated>2016-03-18T00:00:00-04:00</updated>
+   <id>http://lemonsandtoast.com/2016/03/18/successful-people</id>
+   <content type="html">&lt;h3 id=&quot;maintain-a-to-do-list&quot;&gt;Maintain a to-do list&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/to-do-list.jpg&quot; alt=&quot;To-do-list&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;By writing down a list of things that need to be done for the next day, you increase your likelihood of achieving those goals and decrease the amount of time you waste not doing anything.&lt;/p&gt;
+
+&lt;h3 id=&quot;listen-to-audio-books&quot;&gt;Listen to audio books&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/audio-books.jpg&quot; alt=&quot;Audio Books&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-1&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;63% of successful individuals listen to audio books during their commute instead of music.&lt;/p&gt;
+
+&lt;h3 id=&quot;watch-less-tv&quot;&gt;Watch less tv&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/less-tv.jpg&quot; alt=&quot;Less-tv&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-2&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;Successful people watch very little television, &lt;a href=&quot;http://www.amazon.com/Rich-Habits-Success-Wealthy-Individuals/dp/1934938939?tag=bisafetynet-20&quot;&gt;one study shows that&lt;/a&gt; 67% of wealthy individuals watch less than an hour of tv a day. Compare that to the 78% of poor individuals that watch more than an hour of reality tv a day.&lt;/p&gt;
+
+&lt;h3 id=&quot;read-for-self-improvement&quot;&gt;Read for self improvement&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/readtolearn.jpg&quot; alt=&quot;Read to learn&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-3&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;88% percent of successful individuals read everyday to improve themselves and learn something new.&lt;/p&gt;
+
+&lt;h3 id=&quot;wake-up-early&quot;&gt;Wake up early&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/alarm-clock.jpg&quot; alt=&quot;Alarm Clock&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-4&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;Most of the top earning CEOs in the country are early risers, typically up before 6 a.m., this is the time of the day where distractions are at a minimum.&lt;/p&gt;
+
+&lt;h3 id=&quot;automate-tasks&quot;&gt;Automate tasks&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/automate.jpg&quot; alt=&quot;Automate&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-5&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;Don’t do mundane tasks when you can find a computer program to do it for you, analyse what day to day tasks you do that are repetitive. Chances are there is a piece of software that can help you do it better.&lt;/p&gt;
+
+&lt;h3 id=&quot;spend-wisely&quot;&gt;Spend wisely&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/spend-wisely.jpg&quot; alt=&quot;Spend Wisely&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;invest&quot;&gt;Invest&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/successful/invest.jpg&quot; alt=&quot;Invest&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;why-6&quot;&gt;Why?:&lt;/h4&gt;
+&lt;p&gt;Successful people pour a larger than average percentage of their earning into pensions, retirement plans and insurance.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Highest paying college majors that don't require a PhD- Did your major make the list?</title>
+   <link href="http://lemonsandtoast.com/2016/02/28/best-paying-degrees/"/>
+   <updated>2016-02-28T00:00:00-05:00</updated>
+   <id>http://lemonsandtoast.com/2016/02/28/best-paying-degrees</id>
+   <content type="html">&lt;h3 id=&quot;petroleum-engineering&quot;&gt;Petroleum Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/jobs/oil.jpg&quot; alt=&quot;Oil&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;median-income&quot;&gt;Median Income:&lt;/h4&gt;
+&lt;p&gt;$168,000&lt;/p&gt;
+
+&lt;h3 id=&quot;nuclear-engineering&quot;&gt;Nuclear Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/jobs/nuclear.jpg&quot; alt=&quot;Nuclear&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;median-income-1&quot;&gt;Median Income:&lt;/h4&gt;
+&lt;p&gt;$121,000&lt;/p&gt;
+
+&lt;h3 id=&quot;actuarial-mathematics&quot;&gt;Actuarial Mathematics&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/jobs/actuary.jpg&quot; alt=&quot;Actuary&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;median-income-2&quot;&gt;Median Income:&lt;/h4&gt;
+&lt;p&gt;$119,000&lt;/p&gt;
+
+&lt;h3 id=&quot;chemical-engineering&quot;&gt;Chemical Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/jobs/chemical.jpg&quot; alt=&quot;Chemical&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;median-income-3&quot;&gt;Median Income:&lt;/h4&gt;
+&lt;p&gt;$118,000&lt;/p&gt;
+
+&lt;h3 id=&quot;electronics--communications-engineering&quot;&gt;Electronics &amp;amp; Communications Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/jobs/hardware.jpg&quot; alt=&quot;Hardware&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;median-income-4&quot;&gt;Median Income:&lt;/h4&gt;
+&lt;p&gt;$116,000&lt;/p&gt;
+
+&lt;h3 id=&quot;computer-science&quot;&gt;Computer Science&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/jobs/programmer.jpg&quot; alt=&quot;Programmer&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;median-income-5&quot;&gt;Median Income:&lt;/h4&gt;
+&lt;p&gt;$115,000&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
